@@ -1,0 +1,1 @@
+add_executable(04-backtracking 04-backtracking.c)
